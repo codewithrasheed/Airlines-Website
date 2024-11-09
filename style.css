@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Montserrat', sans-serif;
+    scroll-margin-top: 80px;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+/* sc */
+/* #contact{
+    scroll-margin-top: 80px;
+} */
